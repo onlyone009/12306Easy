@@ -1,0 +1,7 @@
+    # Netscape HTTP Cookie File
+    # http://www.netscape.com/newsref/std/cookie_spec.html
+    # This is a generated file!  Do not edit.
+
+kyfw.12306.cn	FALSE	/	FALSE		BIGipServerotn	619184394.24610.0000
+kyfw.12306.cn	FALSE	/	FALSE		route	c5c62a339e7744272a54643b3be5bf64
+kyfw.12306.cn	FALSE	/otn	FALSE		JSESSIONID	B0967D2F49AB0BA1758C67B9DA931045

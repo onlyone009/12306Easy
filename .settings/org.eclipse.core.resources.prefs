@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/gui/myView.py=utf-8
+encoding//src/gui/mygui.py=utf-8
+encoding//src/gui/queryTicketParser.py=utf-8
+encoding//src/ticketSpider/MainApp.py=utf-8
+encoding//src/ticketSpider/Model.py=utf-8
+encoding//src/ticketSpider/TicketAPI.py=utf-8
